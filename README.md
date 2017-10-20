@@ -25,3 +25,4 @@ This reposiroty holds the artifacts that will make up the building of the playbo
 - Decision gates to help the reader figure out what to do with blockchain
 - Have a methodology/process section (what activities/methodology one should follow to get blockchain up and running)
 - Lead playbook with some basic questions that helps the reader navigate the document
+- Some of the steps can leverage other existing blockchain efforts
