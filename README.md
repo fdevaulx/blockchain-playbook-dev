@@ -19,6 +19,7 @@ This reposiroty holds the artifacts that will make up the building of the playbo
 - Someone who is a PM who is looking to use blockchain maybe in an internal system or as a full-fledged project
 - Someone who is more of a senior leader (GS-15/SES/Director) looking to do something widescale with blockchain
 - Someoen who is looking at regulations and policies around blockchain
+- Someone who is developing an acquisition plan for blockchain?
 
 ### Possible Content ###
 
