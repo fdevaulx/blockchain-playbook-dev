@@ -1,6 +1,6 @@
 # Blockchain Playbook Develoment for Federal U.S. Government#
 
-This reposiroty holds the artifacts that will make up the building of the playbook for federal U.S.G use of blockchain technologies
+This repository holds the artifacts that will make up the building of the playbook for federal U.S.G use of blockchain technologies
 
 ### Rules of Engagement ###
 We would love to get your feedback comments or to have you working with us in the team.
@@ -17,7 +17,7 @@ Please follow the rules of engagement descirbed in the rules-of-engagement.md fi
 
 - Federal U.S. Government
 
-### Targetted Audience ###
+### Target Audience ###
 
 - Someone who is more of a worker bee who is interested in blockchain and how they might use it with their immediate work
 - Someone who is a PM who is looking to use blockchain maybe in an internal system or as a full-fledged project
