@@ -25,9 +25,10 @@ Please follow the rules of engagement descirbed in the rules-of-engagement.md fi
 - Someoen who is looking at regulations and policies around blockchain
 - Someone who is developing an acquisition plan for blockchain?
 
-### Possible Content ###
+### Possible Content Strategy ###
 
 - Decision gates to help the reader figure out what to do with blockchain
 - Have a methodology/process section (what activities/methodology one should follow to get blockchain up and running)
+- Consider section "chiefs" who would have merge/commit authority
 - Lead playbook with some basic questions that helps the reader navigate the document
 - Some of the steps can leverage other existing blockchain efforts
