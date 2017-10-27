@@ -2,6 +2,10 @@
 
 This reposiroty holds the artifacts that will make up the building of the playbook for federal U.S.G use of blockchain technologies
 
+### Rules of Engagement ###
+We would love to get your feedback comments or to have you working with us in the team.
+Please follow the rules of engagement descirbed in the rules-of-engagement.md file.
+
 ### Playbook Objectives ###
 
 - Help agencies assess existing installations & figure out how to move forward and get to a blockchain implementation
