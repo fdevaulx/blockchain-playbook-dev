@@ -21,4 +21,4 @@ If you want to become a contributor or author, you or your organization must be 
 Please go to the ACT-IAC website to learn more about membership.
 
  - Already an ACT-IAC member?
- Great, then you can join the Emerging Technoglogy COI Blockchain Working Group.
+ Great, then you can join the Emerging Technoglogy COI Blockchain Working Group by clicking here: https://www.actiac.org/emerging-technology-coi-blockchain-work-group-call-volunteers
