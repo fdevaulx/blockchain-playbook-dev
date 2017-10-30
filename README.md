@@ -1,4 +1,4 @@
-# Blockchain Playbook Develoment for Federal U.S. Government#
+# Blockchain Playbook Develoment for Federal U.S. Government #
 
 This reposiroty holds the artifacts that will make up the building of the playbook for federal U.S.G use of blockchain technologies
 
