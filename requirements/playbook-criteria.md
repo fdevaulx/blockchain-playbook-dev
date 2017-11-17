@@ -1,4 +1,4 @@
-# PLaybook Criteria #
+# Playbook Criteria
 
 - Audience (personas)
 - Small/large scale implementaitons?

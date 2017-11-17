@@ -1,23 +1,24 @@
-# Blockchain Playbook Develoment for Federal U.S. Government #
+# Blockchain Playbook Develoment for Federal U.S. Government
 
 This repository holds the artifacts that will make up the building of the playbook for federal U.S.G use of blockchain technologies
 
-### Rules of Engagement ###
+## Rules of Engagement
+
 We would love to get your feedback comments or to have you working with us in the team.
 Please follow the rules of engagement descirbed in the rules-of-engagement.md file.
 
-### Playbook Objectives ###
+## Playbook Objectives
 
 - Help agencies assess existing installations & figure out how to move forward and get to a blockchain implementation
 - Give readers a way to figure out if blockchain is appropriate for a given use case
 - How to get the reader ready to move forward with blockchain
 - Show where the pitfalls are
 
-### USG Scope ###
+## USG Scope
 
 - Federal U.S. Government
 
-### Target Audience ###
+## Target Audience
 
 - Someone who is more of a worker bee who is interested in blockchain and how they might use it with their immediate work
 - Someone who is a PM who is looking to use blockchain maybe in an internal system or as a full-fledged project
@@ -25,7 +26,7 @@ Please follow the rules of engagement descirbed in the rules-of-engagement.md fi
 - Someoen who is looking at regulations and policies around blockchain
 - Someone who is developing an acquisition plan for blockchain?
 
-### Possible Content Strategy ###
+## Possible Content Strategy
 
 - Decision gates to help the reader figure out what to do with blockchain
 - Have a methodology/process section (what activities/methodology one should follow to get blockchain up and running)
