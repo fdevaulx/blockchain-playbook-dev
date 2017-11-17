@@ -11,7 +11,7 @@
 ## Assessment Overview (1 page)
 
 - Explaining Basic Principle of Assessment at a high-level
-- Providing links to libraries, elf-guided learning tools, concepts etc.
+- Providing links to libraries, self-guided learning tools, concepts etc.
 - Enable people to have reference to the broader knowledge base
 
 ## Best Practices (3-5 pages)
