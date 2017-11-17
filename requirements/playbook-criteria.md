@@ -15,3 +15,5 @@
 - Do we tweak it?
 
 - level of integration of blockchain within existing and new infrastructures and solution
+
+- Swimlanes = Program Management, Workforce/Org/Stakeholders,Technology, Process/Service Delivery?
