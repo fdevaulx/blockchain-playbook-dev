@@ -19,7 +19,7 @@
 - Set of practical advice around blockchain assessment
 - Focus on 5-10 key practices
 - Map each best practice with links or references to:
-  - Use Case from GSA github library
+  - Use Case from GSA github library (Justin's Atlas - https://github.com/GSA/emerging-technology-atlas)
   - Recommended Appropriate Taxonomy
 - Each best practice should have similar format
   - Header with high-level tagline/naming of the practice
