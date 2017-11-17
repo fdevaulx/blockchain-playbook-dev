@@ -4,35 +4,35 @@ List of the volunteers for each section and activity
 
 ## Intro/Overview Section
 
-Jonathan
-Combiz
+- Jonathan
+- Combiz
 
 ## Assessment Section
 
-Aleks
-Sandy
+- Aleks
+- Sandy
 
 ## Readiness Section
 
-Arushi
-Rob
+- Arushi
+- Rob
 
 ## Selection Section
 
-Venkat
-Ken
+- Venkat
+- Ken
 
 ## Overall Merge Activity
 
-Fred
-Todd
+- Fred
+- Todd
 
 ## Overall Editing Activity
 
-Jonathan
-Andrew
+- Jonathan
+- Andrew
 
 ## Graphics Activity
 
-Jean
-Start
+- Jean
+- Star
