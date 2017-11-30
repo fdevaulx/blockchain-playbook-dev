@@ -1,6 +1,6 @@
 # Rules of Engagement
 
-In a nutshell
+## In a nutshell
 
 - Anyone will be able to see the content of the repo and the issues
 - Someone with an account will be able to create or comment on an issue
