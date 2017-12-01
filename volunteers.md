@@ -15,7 +15,10 @@ List of the volunteers for each section and activity
 ## Readiness Section
 
 - Arushi
-- Rob
+- Rob 
+- Jamuna
+- Sanjeev
+- Paul
 
 ## Selection Section
 
