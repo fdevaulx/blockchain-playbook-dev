@@ -13,6 +13,9 @@
 - Explaining Basic Principle of Assessment at a high-level
 - Providing links to libraries, self-guided learning tools, concepts etc.
 - Enable people to have reference to the broader knowledge base
+- Permissionless Blockchain
+- Public Permissioned Blockchain
+- Private Permissioned Blockchain
 
 ## Best Practices (3-5 pages)
 
