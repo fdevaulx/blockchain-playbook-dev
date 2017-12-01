@@ -13,10 +13,9 @@
 - Can use an M3 like graphic here
 
 ## Best Practices (3-5 pages)
-- Set of practical advice around blockchain readiness
-- Focus on 5-10 key practices
-- Each best practice should have similar format
-- Header with high-level tagline/naming of the practice
+- Set of practical advice around blockchain preparedness
+- Focus on 5-10 key points on "before-you-start" 
+- Header with high-level tagline/naming of the point
 - Three key elements: description, analysis, takeaway/outcome
 
 ## Outcomes (0.5 – 1 page)
