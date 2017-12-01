@@ -24,6 +24,8 @@ List of the volunteers for each section and activity
 
 - Venkat
 - Ken
+- Brent
+- Kelly
 
 ## Overall Merge Activity
 
