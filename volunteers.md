@@ -11,6 +11,8 @@ List of the volunteers for each section and activity
 
 - Aleks
 - Sandy
+- Andrew
+- Damanjit
 
 ## Readiness Section
 
