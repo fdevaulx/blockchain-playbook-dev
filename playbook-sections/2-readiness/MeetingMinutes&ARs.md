@@ -1,6 +1,6 @@
-Dec-4-2017
+# Dec-4-2017
  
- Agenda:
+ ## Agenda:
  1. Finalize list of contributors
  2. Introductions
  3. Github
@@ -9,9 +9,9 @@ Dec-4-2017
  6. Subsection owners
  7. Action Plan - Dependent on Master plan from Fred
  
- Discussion:
+ ## Discussion:
  
  
  
  
- Action Items:
+ ## Action Items:
