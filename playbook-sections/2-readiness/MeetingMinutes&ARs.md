@@ -9,9 +9,13 @@
  6. Subsection owners
  7. Action Plan - Dependent on Master plan from Fred
  
+ ## Attendees:
+ Arushi, Joanna, Jamuna
+ 
  ## Discussion:
- 
- 
- 
+ 1. Introductions - Joanna, Jamuna, Arushi
+ 2. 
  
  ## Action Items:
+ 1. Confirm 2-3PM weekly call timing - Arushi
+ 2. Confirm github accounts from the people who could not join
