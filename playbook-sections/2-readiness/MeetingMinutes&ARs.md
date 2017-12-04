@@ -14,8 +14,10 @@
  
  ## Discussion:
  1. Introductions - Joanna, Jamuna, Arushi
- 2. 
+ 2. Went through all the points in Agenda
+ 3. Subsection Owners: Joanna for Best Practices, Jamuna/Sanjeev will let us know offline
  
  ## Action Items:
  1. Confirm 2-3PM weekly call timing - Arushi
  2. Confirm github accounts from the people who could not join
+ 3. Confirm subsection owners
