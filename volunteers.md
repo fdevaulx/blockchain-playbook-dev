@@ -28,6 +28,7 @@ List of the volunteers for each section and activity
 - Ken
 - Brent
 - Kelly
+- Sarah
 
 ## Overall Merge Activity
 
