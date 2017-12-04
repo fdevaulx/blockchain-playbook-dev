@@ -11,4 +11,9 @@
     # Product Resource requirement (Technical environment, internal knowledge base etc)
     # Product purpose vs. Requirement Purpose - Ex. Etherium may not be suitable for a non financial blockchain Asset
     
+  # Government Procurement Options
+    # GWACs
+    # Acency contracts
+    # Others
+    
   # Conclusion
