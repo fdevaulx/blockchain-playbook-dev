@@ -4,6 +4,10 @@ This repository holds the artifacts that will make up the building of the playbo
 
 ## Roadmap
 
+![blockchain timeline](playbook-timeline.png?raw=true "blockchain timeline")
+
+## Framework
+
 ![blockchain roadmap](playbook-roadmap.png?raw=true "blockchain roadmap")
 
 ## Rules of Engagement
