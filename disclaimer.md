@@ -1,0 +1,3 @@
+# Disclaimer
+
+This content has been prepared to contribute to a more effective, efficient, and innovative government.  The information contained in this report is the result of a collaborative process in which a number of individuals participated.  This document does not – nor is it intended to – endorse or recommend any specific technology, product, or vendor. Moreover, the views expressed in this document do not necessarily represent the official views of the individuals and organizations that participated in its development. Every effort has been made to present accurate and reliable information in this report. However, ACT-IAC assumes no responsibility for consequences resulting from the use of the information herein. 
