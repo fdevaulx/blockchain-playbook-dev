@@ -2,6 +2,10 @@
 
 This repository holds the artifacts that will make up the building of the playbook for federal U.S.G use of blockchain technologies
 
+## Draft
+
+This is a draft version; further distribution or publication is expressly prohibited by ACT-IAC policy
+
 ## Roadmap
 
 ![blockchain timeline](playbook-timeline.png?raw=true "blockchain timeline")
