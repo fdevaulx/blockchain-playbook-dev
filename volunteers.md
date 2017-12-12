@@ -13,6 +13,7 @@ List of the volunteers for each section and activity
 - Sandy
 - Andrew
 - Damanjit
+- Bill
 
 ## Readiness Section
 
