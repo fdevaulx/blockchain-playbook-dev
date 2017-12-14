@@ -1,6 +1,13 @@
 # Outline
 
   # Checklist
+    # Etherium Vs. HyperLedger Vs. R3 Corda Vs. Microsoft COCO
+    # Platform Description
+    # Governance
+    # Mode of Operation
+    # Consensus
+    # Smart Contract
+    # Currency
 
   # Outcome Requirements - DOD - Success Criteria
 
