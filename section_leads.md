@@ -4,7 +4,7 @@
 
 - Playbook intro/overview lead - Jonathan, Combiz
 - Playbook assessment section lead - Aleks, Sandy
-- Playbook readiness section lead - Arushi, Rob
+- Playbook readiness section lead - Arushi (arushi.srivastava@nttdata.com), Rob
 - Playbook selection section lead - Venkat, Ken or Indu
 - Regular section merging activity lead - Fred, Todd
 - Regular overall editing activity lead - Jonathan, Andrew
