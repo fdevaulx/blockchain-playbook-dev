@@ -6,6 +6,7 @@
 - Playbook assessment section lead - Aleks, Sandy
 - Playbook readiness section lead - Arushi (arushi.srivastava@nttdata.com), Rob
 - Playbook selection section lead - Venkat (venkat.kodumudi@cgifederal.com / 202-308-9778), Ken or Indu
+    Meeting every Thursday at 2 PM.
 - Regular section merging activity lead - Fred, Todd
 - Regular overall editing activity lead - Jonathan, Andrew
 - Graphics lead - Jean, Star
