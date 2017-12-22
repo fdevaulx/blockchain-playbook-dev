@@ -3,6 +3,7 @@
   # Outcome Requirements - DOD - Success Criteria - Venkat / Ken
   
   # Checklist - Business Requirements - Venkat / Sarah
+ 
     # Etherium Vs. HyperLedger Vs. R3 Corda Vs. Microsoft COCO
     # Platform Description
     # Governance
@@ -15,6 +16,7 @@
     # ATO Process, FedRAMP?
 
   # Blockchain Technical Categories to consider - Sanjeev
+  
     # Permissioned Vs. Public
     # Asset & DLT Requirements eg. Financial/Document/Physical Asset, Centralized Ledger?
     # Open Source vs. Proprietery
@@ -26,6 +28,7 @@
       Consider where the Peer nodes are going to reside.
     
   # Government Procurement Options - Nick / Kelly / Michelle
+  
     # GWACs
     # Acency contracts
     # OTA
