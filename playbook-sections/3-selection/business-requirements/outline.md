@@ -1,6 +1,7 @@
 
-# Checklist - Business Requirements - Venkat / Sarah# Etherium Vs. HyperLedger Vs. R3 Corda Vs. Microsoft COCO
+# Checklist - Business Requirements - Venkat / Sarah
 
+    # Etherium Vs. HyperLedger Vs. R3 Corda Vs. Microsoft COCO
     # Platform Description
     # Governance
     # Mode of Operation
