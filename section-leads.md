@@ -3,7 +3,7 @@
 ## Sections
 
 - Playbook intro/overview lead - Jonathan (jtame@deloitte.com), Combiz (combiz.abdolrahimi@treasury.gov)
-- Playbook assessment section lead - Aleks, Sandy
+- Playbook assessment section lead - Aleks, Sandy (sandy.barsky@gsa.gov), Star (svanamali@sapient.com)
 - Playbook readiness section lead - Arushi (arushi.srivastava@nttdata.com), Rob
 - Playbook selection section lead - Venkat (venkat.kodumudi@cgifederal.com / 202-308-9778), Sarah (sarah.ropper@cgifederal.com) Ken or Indu
 - Regular section merging activity lead - Fred, Todd (thager@macrosolutions.com)
