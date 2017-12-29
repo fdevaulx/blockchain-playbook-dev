@@ -8,7 +8,7 @@
 - Playbook selection section lead - Venkat (venkat.kodumudi@cgifederal.com / 202-308-9778), Sarah (sarah.ropper@cgifederal.com) Ken or Indu
 - Regular section merging activity lead - Fred, Todd (thager@macrosolutions.com)
 - Regular overall editing activity lead - Jonathan, Andrew
-- Graphics lead - Jean, Star
+- Graphics lead - Jean, Star (svanamali@sapient.com)
 
 ## Responsibilities
 
