@@ -42,3 +42,18 @@ to Wednesdays 2 PM-3PM as the final time of our meeting of this group. Those of 
 4. New volunteers: Welcome Wendy, Alec and Pushkar - Please let us know which subsection would you like to lead or contribute? We are looking for co-leads for all the subsections. Request your response by tomorrow EOD.
 5. Confirm if you will be authoring via emails or github.
  
+# Jan-03-2018
+
+## Agenda
+1. Introduction of the new members
+2. Status update from the subsection leads
+3. Next deadline - 11th January
+4. Resources - 
+   A. https://www.ussm.gov/m3phase1/#.Wk0mLVSpmgQ
+   B. https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1041/2017/09/Phase-1-Playbook.pdf
+   C. https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1041/2017/08/Phase-1-Guidance.pdf
+   D. https://www.ussm.gov/m3overview/#.Wk0mZlSpmgQ
+
+## Action Items
+
+
