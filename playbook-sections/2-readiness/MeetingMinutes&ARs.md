@@ -22,7 +22,7 @@
  2. Confirm github accounts from the people who could not join
  3. Confirm subsection owners
 
-#Dec-9-2017
+# Dec-9-2017
 
 ## Email after the meeting
 ### Subsection owners 
