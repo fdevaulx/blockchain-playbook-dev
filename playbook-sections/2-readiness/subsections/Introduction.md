@@ -16,7 +16,7 @@
       . Key Goals:
         A. Stand-up Blockchain governance office
         B. Define scope of blockchain services and governance processes
-        C. Establish risk processes
+        C. Assess risks and establish risk mitigation processes
         D. Assess existing system's integration readiness
         E. Assess selected KPIs evaluation readiness
     
@@ -58,3 +58,15 @@
 
 
 ## What does success look like?
+    #Updates from Arushi - Jan 4 <Start>
+      1. PMO and Governance Structure Defined 
+      2. Resources On Boarded 
+      3. Mitigation Plans in Place for Major Risks/Issues 
+      4. Initial Schedule Defined 
+      5. Lifecycle Cost Estimate Developed 
+      6. Change Management Strategies Defined 
+      7. Existing system's integration readiness assessed
+      8. Selected KPIs evaluation readiness assessed
+      9. Procurement Strategy Defined 
+      10. Business Capabilities Defined
+    #Updates from Arushi - Jan 4 <End>
