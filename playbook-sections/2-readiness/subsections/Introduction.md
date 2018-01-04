@@ -5,18 +5,18 @@
 
 ## Overall purpose (State Why?)
 
-  ### Updates from Arushi - Jan 4 <Start>
-    1. Purpose : Prepare the enterprises and organization for the blockchain effort and define the required capabilities
-  ### Updates from Arushi - Jan 4 <End>
+    #Updates from Arushi - Jan 4 <Start>
+      1. Purpose : Prepare the enterprises and organization for the blockchain effort and define the required capabilities
+    #Updates from Arushi - Jan 4 <End>
 
 ## Goals
 
-  ### Updates from Arushi - Jan 4 <Start>
-    1. Key Goals:
-      A. 
-      B.
-      C.
-  ### Updates from Arushi - Jan 4 <End>
+    #Updates from Arushi - Jan 4 <Start>
+      1. Key Goals:
+        A. 
+        B.
+        C.
+    #Updates from Arushi - Jan 4 <End>
 
 ## Participants
 
