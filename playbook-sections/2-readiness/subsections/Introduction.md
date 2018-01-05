@@ -1,7 +1,7 @@
 
 # Introduction
-## Lead - Rob Wuhrman <Rob- please confirm if you are okay with this?>
-## Expected Length - 0.5 Pg
+## Lead - Rob Wuhrman <Rob- to confirm and update>
+## Expected Length - 1-2 Pages
 
 ## Overall purpose (State Why?)
 
