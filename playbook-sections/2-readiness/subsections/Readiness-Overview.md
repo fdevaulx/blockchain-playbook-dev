@@ -4,10 +4,10 @@
 ## Expected Length - 1 Page
 
 ## Explaining Basic Principle of Readiness at a high-level
-  #Updates from Arushi - Jan 4 <Start>
-      1. Question for Govt. SMEs - Are there any Fed requirements/guidelines that CIOs need to consider before they can commit to a blockchain project?
-      2. On a high level, the step of "readiness" means enabling the agencies and organizations to start a blockchain initiative with the right understanding of technology, right selection of core people and right governance, project management, enterprise architecture and change management processes in place.
-  #Updates from Arushi - Jan 4 <End>
+  # Updates from Arushi - Jan 4 <Start>
+    # 1. Question for Govt. SMEs - Are there any Fed requirements/guidelines that CIOs need to consider before they can commit to a blockchain project?
+    # 2. On a high level, the step of "readiness" means enabling the agencies and organizations to start a blockchain initiative with the right understanding of technology, right selection of core people and right governance, project management, enterprise architecture and change management processes in place.
+  # Updates from Arushi - Jan 4 <End>
 
 ## Define objectives, key activities and expected outcomes
   #Updates from Arushi - Jan 4 <Start>
