@@ -37,8 +37,8 @@
     #Updates from Arushi - Jan 4 <Start>
       1. Mention the handoff from Assessment phase and how will we utilize their outcomes
       2. Key Activities: Give a map of activities for each goal <needs graphic>
-        A. Stand-up Blockchain governance office
-        B. Define scope of blockchain services and governance processes
+        A. Stand-up Blockchain PMO office
+        B. Define scope of blockchain services and processes
         C. Establish risk processes
         D. Assess existing system's integration readiness
         E. Assess selected KPIs evaluation readiness
