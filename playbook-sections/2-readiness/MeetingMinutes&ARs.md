@@ -56,4 +56,18 @@ to Wednesdays 2 PM-3PM as the final time of our meeting of this group. Those of 
 
 ## Action Items
 
+# Jan-10-2018
+
+## Agenda
+1. Introduction of the new members
+2. Walkthrough of Arushi's Jan 4 updates
+3. Status update from the subsection leads
+4. Discussion, review and feedback on flow and content headlines
+3. Next deadline - 11th January
+
+## Action Items
+1. Arushi - 
+
+
+
 
