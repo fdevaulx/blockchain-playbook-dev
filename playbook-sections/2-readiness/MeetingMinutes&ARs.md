@@ -62,13 +62,12 @@ to Wednesdays 2 PM-3PM as the final time of our meeting of this group. Those of 
 1. Introduction of the new members
 2. Walkthrough of Arushi's Jan 4 updates
 3. Status update from the subsection leads
-4. Discussion, review and feedback on flow and content headlines:
-Wendy's Thoughts:
- A. Success depends on community, and security for participants.
- B. Agile structure - iterative approach allows recallibration
- C. Risks - How large will it get - data lake considerations, transaction processing considerations
- D. Is PMO the right approach? Agile more suited? Product owner + pools of stakeholders
- E. Setting expectations - Txns are not instantaneous
+4. Discussion, review and feedback on flow and content headlines: Wendy's Thoughts:
+   A. Success depends on community, and security for participants.
+   B. Agile structure - iterative approach allows recallibration
+   C. Risks - How large will it get - data lake considerations, transaction processing considerations
+   D. Is PMO the right approach? Agile more suited? Product owner + pools of stakeholders
+   E. Setting expectations - Txns are not instantaneous
 
 ## Action Items
 1. Arushi - Start writing sections and send to Wendy for review (Tuesday, considering Monday is a holiday)
