@@ -1,3 +1,4 @@
+One concept to make clear is that blockchain is not Bitcoin and Bitcoin is not blockchain.  Bitcoin demonstrates the technology works, but it doesn't have anything to do with the power of blockchain.  This confusion can be a major roadblock to the adoption of a dynamic tool.  
 
 |    | Blockchain | Bitcoin |
 |--- | --- | --- |
