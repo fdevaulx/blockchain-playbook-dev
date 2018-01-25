@@ -1,4 +1,4 @@
-# Readiness Overview
+# Best Practices Overview
     # Lead - Joanna - Joanna to confirm and update>
     # Expected Length - 3-5 Pages
     # Set of practical advice around blockchain preparedness
