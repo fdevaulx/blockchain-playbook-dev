@@ -3,7 +3,7 @@ One concept to make clear is that blockchain is not Bitcoin and Bitcoin is not b
 |    | Blockchain | Bitcoin |
 |--- | --- | --- |
 | What is it? | A decentralized distributed ledger that is shared, replicated, and synchronized among the members of a network and used for digital assets, e.g. deeds, academic records, or identity credentials (licenses, birth certificates, etc…).  The list grows as more becomes digital. | A cryptocurrency. |
-| Is it slow? | Depending on the setup, 100,000 or more transactions per second are possible.  The LMAX Exchange sustains an average trade execution time of 3 milliseconds. | It takes about 10 minutes to confirm one transaction. |
+| Is it slow? | Depending on configuration—location of peers, supporting extensions, consensus algorithm, etc. —more blockchains are claiming 1000s to 100,000+ transactions per second. The LMAX Exchange demonstrates a sustained average trade execution time of 3 milliseconds. | It takes about 10 minutes to confirm one transaction. |
 | Do only bad guys use it? | Policy can determine whether users are known or anonymous. | Users are pseudonymous. |
 | Is it just used to fund illicit activities? | Blockchain can use smart contracts to support identity, property management, data storage, voting, automation of contracts, financial services, and much, much more. | Bitcoin is used for monetary transactions.  Its system does not incorporate smart contracts. |
 | What else can it do? | Blockhain has added functionality to talk across databases (interoperate and information share).  It can also incorporate sensors (e.g. track the temperature of food in a supply chain). | Bitcoin is used for monetary transactions. | 
