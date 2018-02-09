@@ -6,13 +6,13 @@ Blockchain has the potential to help government to reduce fraud, errors, and the
 
 **Incorporate blockchain functionality in the Blockchain Playbook:** Now the ACT-IAC Blockchain Working Group comes together again to guide the government workforce in taking the appropriate steps and developing the necessary plans to implement the right technology to achieve the goals of their mission.  
 
-**Deliver the right information at the right time:** To address the current high level of government interest and desire to begin deploying blockchain solutions, launch of this playbook will happen in two stages.  Work on the next launch stage will begin in April 2018 and is estimated to launch in late 2018 in order to continue supporting these efforts as they evolve.
+**Deliver the right information at the right time:** To address the current high level of government interest and desire to begin deploying blockchain solutions, launch of this playbook will happen in two stages.  Work on the next launch stage will begin in April 2018 and is estimated to launch in late 2018 to continue supporting these efforts as they evolve.
 
 **Collaborate on this living document:** As government efforts move through implementation of this new and rapidly developing technology, contributions of additional best practices, lessons learned, and other information are appreciated to ensure this resource is current, comprehensive, and effective in meeting the needs of government.
 
 **Apply the M3 Framework:** This playbook applies the GSA Modernization and Migration Management (M3) unified shared services framework to help the government achieve successful outcomes and reduce risk during a blockchain deployment, which should involve the modernization of information systems, as well as the migration of data and/or other capabilities. The progression of this framework ensures the government will be able to optimize its resources to deliver the most effective solution.
 
-**Address deployment in six phases:** This edition of the playbook covers the first three phases of M3’s six-phased approach, which includes key activities and outcomes for each phase.  
+**Address deployment in six phases:** The first three phases of M3’s six-phased approach, which includes key activities and outcomes for each phase, are addressed in this edition of the playbook.  
 
 Phase 0 Assessment: Develop a vision and business plan through various assessments to ensure the blockchain solution addresses a specific use case and delivers results that optimize services and operational delivery while complying with regulations and accounting for cultural change management, as well as technical modernization and interoperability needs.
 
@@ -20,6 +20,6 @@ Phase 1 Readiness: Prepare the customer organization for the effort and define b
 
 Phase 2 Selection: Conduct due diligence to select the provider based on business requirements and desired target end state.
 
-**Read the appendix for additional information:** At the end of this playbook is a glossary to assist with the in-depth terminology associated with advanced blockchain concepts. 
+**Read the appendix for additional information:** At the end of this playbook are a glossary to assist with the in-depth terminology associated with advanced blockchain concepts and a job aid describing the differences between blockchain and Bitcoin. 
 
 **Look for the next edition of the playbook:** In late 2018, the next edition of the playbook will cover the final phases of the framework: Phase 3 Engagement, Phase 4 Migration, and Phase 5 Operations.
