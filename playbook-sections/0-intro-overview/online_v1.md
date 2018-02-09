@@ -2,9 +2,9 @@
 
 Blockchain has the potential to help government to reduce fraud, errors, and the cost of paper-intensive processes, while enabling collaboration across multiple divisions and agencies to provide more efficient and effective services to citizens. The adoption of blockchain may also enable government agencies to provide new value-added services to businesses and others, which can generate new sources of revenue for these agencies. But how can agencies turn that potential into reality?
 
-**Understand the technology in the Blockchain Primer:** Over one dozen federal agencies and a variety of industry partners collaborated to provide the government workforce with an introduction to blockchain and its related technologies, as well as its many potential use cases, in the ACT-IAC Blockchain Primer.  
+**Understand the technology using the Blockchain Primer:** Over one dozen federal agencies and a variety of industry partners collaborated to provide the government workforce with an introduction to blockchain and its related technologies, as well as its many potential use cases, in the ACT-IAC Blockchain Primer.  
 
-**Incorporate blockchain functionality in the Blockchain Playbook:** Now the ACT-IAC Blockchain Working Group comes together again to guide the government workforce in taking the appropriate steps and developing the necessary plans to implement the right technology to achieve the goals of their mission.  
+**Incorporate blockchain functionality using the Blockchain Playbook:** Now the ACT-IAC Blockchain Working Group comes together again to guide the government workforce in taking the appropriate steps and developing the necessary plans to implement the right technology to achieve the goals of their mission.  
 
 **Deliver the right information at the right time:** To address the current high level of government interest and desire to begin deploying blockchain solutions, launch of this playbook will happen in two stages.  Work on the next launch stage will begin in April 2018 and is estimated to launch in late 2018 to continue supporting these efforts as they evolve.
 
