@@ -14,11 +14,11 @@ Blockchain has the potential to help government to reduce fraud, errors, and the
 
 **Address deployment in six phases:** The first three phases of M3’s six-phased approach, which includes key activities and outcomes for each phase, are addressed in this edition of the playbook.  
 
-Phase 0 Assessment: Develop a vision and business plan through various assessments to ensure the blockchain solution addresses a specific use case and delivers results that optimize services and operational delivery while complying with regulations and accounting for cultural change management, as well as technical modernization and interoperability needs.
+* Phase 0 Assessment: Develop a vision and business plan through various assessments to ensure the blockchain solution addresses a specific use case and delivers results that optimize services and operational delivery while complying with regulations and accounting for cultural change management, as well as technical modernization and interoperability needs.
 
-Phase 1 Readiness: Prepare the customer organization for the effort and define business, functional, and technical requirements.
+* Phase 1 Readiness: Prepare the customer organization for the effort and define business, functional, and technical requirements.
 
-Phase 2 Selection: Conduct due diligence to select the provider based on business requirements and desired target end state.
+* Phase 2 Selection: Conduct due diligence to select the provider based on business requirements and desired target end state.
 
 **Read the appendix for additional information:** At the end of this playbook are a glossary to assist with the in-depth terminology associated with advanced blockchain concepts and a job aid describing the differences between blockchain and Bitcoin. 
 
