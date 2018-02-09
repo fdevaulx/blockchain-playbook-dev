@@ -18,7 +18,7 @@ The first three phases of M3’s six-phased approach, which includes key activit
 
 * Phase 1 Readiness: Engage blockchain subject matter experts and consider the nuances that accompany a blockchain solution to prepare the organization(s) for deployment, including the standup of a project management office, as well as the establishment of blockchain-tailored business, functional, and technical requirements and implementation plans.
 
-* Phase 2 Selection: Conduct due diligence to select the provider based on business requirements and desired target end state.
+* Phase 2 Selection: Conduct a thorough investigation of the business considerations (e.g. consensus mechanism, transaction costs, and on chain/off chain data requirements), types of blockchains, digital asset and DLT requirements and considerations, deployment models, and procurement options to enable optimal provider selection to achieve the desired end state.
 
 Also included at the end of this playbook are a glossary to assist with the in-depth terminology associated with advanced blockchain concepts and a job aid highlighting the differences between blockchain and Bitcoin. 
 
