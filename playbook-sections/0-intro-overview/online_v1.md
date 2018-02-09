@@ -16,9 +16,9 @@ Blockchain has the potential to help government to reduce fraud, errors, and the
 
 * Phase 0 Assessment: Develop a vision and business plan through various assessments to ensure the blockchain solution addresses a specific use case and delivers results that optimize services and operational delivery while complying with regulations and accounting for cultural change management, as well as technical modernization and interoperability needs.
 
-* Phase 1 Readiness: Prepare the customer organization for the effort and define business, functional, and technical requirements.
+* Phase 1 Readiness: Engage blockchain subject matter experts and consider the nuances that accompany a blockchain solution to prepare the organization(s) for deployment, including the standup of a project management office, as well as the establishment of blockchain-tailored business, functional, and technical requirements and implementation plans.
 
-* Phase 2 Selection: Conduct due diligence to select the provider based on business requirements and desired target end state.
+* Phase 2 Selection: Conduct a thorough investigation of the business considerations (e.g. consensus mechanism, transaction costs, and on chain/off chain data requirements), types of blockchains, digital asset and DLT requirements and considerations, deployment models, and procurement options to enable optimal provider selection to achieve the desired end state.
 
 **Read the appendix for additional information:** At the end of this playbook are a glossary to assist with the in-depth terminology associated with advanced blockchain concepts and a job aid describing the differences between blockchain and Bitcoin. 
 
