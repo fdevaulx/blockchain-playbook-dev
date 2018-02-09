@@ -22,4 +22,4 @@ The first three phases of M3’s six-phased approach, which includes key activit
 
 Also included at the end of this playbook are a glossary to assist with the in-depth terminology associated with advanced blockchain concepts and a job aid highlighting the differences between blockchain and Bitcoin. 
 
-In late 2018, the next edition of the playbook will be published, covering the final phases of the framework: Phase 3 Engagement, Phase 4 Migration, and Phase 5 Operations. 
+In late 2018, the next edition of the playbook will be published, covering the final phases of the framework: Phase 3 Engagement, Phase 4 Migration, and Phase 5 Operations.  
