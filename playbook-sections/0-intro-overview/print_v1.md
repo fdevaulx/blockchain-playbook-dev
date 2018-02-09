@@ -16,7 +16,7 @@ The first three phases of M3’s six-phased approach, which includes key activit
 
 * Phase 0 Assessment: Develop a vision and business plan through various assessments to ensure the blockchain solution addresses a specific use case and delivers results that optimize services and operational delivery while complying with regulations and accounting for cultural change management, as well as technical modernization and interoperability needs.
 
-* Phase 1 Readiness: Engage blockchain subject matter experts and consider the nuances that accompany a blockchain solution to prepare the organization(s) for deployment, including the standup of a project management office, as well as the establishment of blockchain tailored business, functional, and technical requirements and implementation plans.
+* Phase 1 Readiness: Engage blockchain subject matter experts and consider the nuances that accompany a blockchain solution to prepare the organization(s) for deployment, including the standup of a project management office, as well as the establishment of blockchain-tailored business, functional, and technical requirements and implementation plans.
 
 * Phase 2 Selection: Conduct due diligence to select the provider based on business requirements and desired target end state.
 
