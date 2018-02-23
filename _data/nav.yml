@@ -1,0 +1,21 @@
+- title: "Intro"
+  url: "/intro/"
+
+- title: "Phase 1"
+  url: "/assessment/"
+
+- title: "Phase 2"
+  url: "/readiness/"
+  dropdown:
+
+- title: "Phase 3"
+  url: "/selection/"
+
+- title: "Annex"
+  url: "/annex/"
+
+- title: "Glossary"
+  url: "/glossary/"
+
+- title: "References"
+  url: "/references/"

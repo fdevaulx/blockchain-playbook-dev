@@ -1,0 +1,14 @@
+- name: "term a"
+  description: "This is the definition"
+  source: ""
+  source-url: ""
+
+- name: "term b"
+  description: "This is the definition"
+  source: ""
+  source-url: ""
+
+- name: "term c"
+  description: "This is the definition"
+  source: ""
+  source-url: ""

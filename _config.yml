@@ -1,0 +1,11 @@
+title: Blockchain Playbook - Online
+author: Blockchain Working Group
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  The Online Version of the Blockchain Playbook
+
+twitter_username: 
+github_username:  
+
+sass:
+    style: compressed

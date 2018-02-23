@@ -1,0 +1,115 @@
+<nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper"><a id="logo-container" class="brand-logo" style="margin-left:10px" href="{{ "/" | relative_url }}">ACT-IAC</a>
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+          <ul class="right hide-on-med-and-down">
+                <!--<li><a href="{{ "/" | relative_url }}">Home </a></li>-->
+                <!--<li>-</li>-->
+                {% for link in site.data.nav %}
+
+                    {% if link.url contains 'http' %}
+                    {% assign domain = '' %}
+                    {% elsif link.url == '#' %}
+                    {% assign domain = '' %}
+                    {% else %}
+                    {% assign domain = site.url %}
+                    {% endif %}
+    
+                    {% if link.dropdown == nil %}
+                        <li class="divider"></li>
+                        <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+        
+                    {% else %}
+        
+                        <li class="divider"></li>
+                        <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
+                        <a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
+        
+                            <ul class="dropdown">
+                            {% for dropdown_link in link.dropdown %}
+        
+                                {% if dropdown_link.url contains 'http' %}
+                                {% assign domain = '' %}
+                                {% else %}
+                                {% assign domain = site.url %}
+                                {% endif %}
+        
+                                <li><a href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
+                            {% endfor %}
+                            </ul>
+                            
+                        </li>
+                    {% endif %}
+                {% endfor %}        
+          </ul>
+
+          <ul id="nav-mobile" class="side-nav">
+                <!--<li><a href="{{ "/" | relative_url }}">Home </a></li>-->
+                {% for link in site.data.nav %}
+
+                    {% if link.url contains 'http' %}
+                    {% assign domain = '' %}
+                    {% elsif link.url == '#' %}
+                    {% assign domain = '' %}
+                    {% else %}
+                    {% assign domain = site.url %}
+                    {% endif %}
+    
+                    {% if link.dropdown == nil %}
+                        <li class="divider"></li>
+                        <li{% if link.url == page.url %} class="active"{% endif %}><a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+        
+                    {% else %}
+        
+                        <li class="divider"></li>
+                        <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
+                        <a href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
+        
+                            <ul class="dropdown">
+                            {% for dropdown_link in link.dropdown %}
+        
+                                {% if dropdown_link.url contains 'http' %}
+                                {% assign domain = '' %}
+                                {% else %}
+                                {% assign domain = site.url %}
+                                {% endif %}
+        
+                                <li><a href="{{ domain }}{{ site.baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
+                            {% endfor %}
+                            </ul>
+                            
+                        </li>
+                    {% endif %}
+                {% endfor %}        
+          </ul>
+
+          <!--
+          <ul class="right hide-on-med-and-down">
+            <li><a href="{{ "/" | relative_url }}">Home </a></li>
+            {% if page_paths %}
+                {% for path in page_paths %}
+                    {% assign my_page = site.pages | where: "path", path | first %}
+                    {% if my_page.title %}
+                    <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}              
+          </ul>
+
+          <ul id="nav-mobile" class="side-nav">
+            <li><a href="#">Home</a></li>
+                            {% if page_paths %}
+                {% for path in page_paths %}
+                    {% assign my_page = site.pages | where: "path", path | first %}
+                    {% if my_page.title %}
+                    <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %} 
+          </ul>
+        -->        
+
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+</nav>
