@@ -20,6 +20,11 @@ Action Items
         a.	Tina / Maia – Law Enforcement
         b.	Mike Rice – Health IT
         c.	Venkat – Grants, Procurement
+            Grants: Tracking of funds distribution down to the recipient
+            Grants: Reporting of funds distribution back to the government
+            Grants: Collected data can help analyze spend patterns and give suggestions to other similar social uses
+            Procurement: Procurement Lifecycle on Blockchain to enable accurate tracking of the procurement cycle, and milestones. 
+            Procurement: Financial lifecycle tracking relating to procurement of goods and services
         d.	Todd – Human Capital
         e.	Rob – Financial (?)
         f.	TBD – Travel & Expense
