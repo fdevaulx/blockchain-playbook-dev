@@ -15,8 +15,7 @@ VENKAT KODUMUDI:
     2. Ensure compliance to the controls governed by the directives.
 6.	Archiving
     As the number of blocks in the blockchain increases, the finite storage resources become dear to the success of the implementation. Archiving is one way to ensure enough storage is available for the operations of the system by moving a subset of data based on certain rules into an offline / somewhat difficult to access storage (also sometimes referred to as 'offline' storage). Archiving can get very complicated depending on the requirements. There can be tiers of archiving, such as semi-instantaneous access, and completely offline.
-    
-    Archiving is a prominent concept, if designed or implemented incorrectly can break a solution. It is espcially acute with Blockchain as the entire premise of Blockchain is based on the fact that 'a blockchain' holds the single source of truth of everything that happened.
+Archiving is a prominent concept, if designed or implemented incorrectly can break a solution. It is espcially acute with Blockchain as the entire premise of Blockchain is based on the fact that 'a blockchain' holds the single source of truth of everything that happened.
 7.	Smart Contract (??)
     Please refer to the selection secion of the playbook for a definition of Smart Contract
 8.	Messaging Protocols 
