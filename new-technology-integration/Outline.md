@@ -16,25 +16,26 @@ VENKAT KODUMUDI:
 
 6.	Archiving
     Archiving is not a feature of the Blockchain. As the number of blocks in the blockchain increases, the finite storage resources become dear to the success of the implementation. Archiving is one way to ensure enough storage is available for the operations of the system by moving a subset of data based on certain rules into an offline / somewhat difficult to access storage (also sometimes referred to as 'offline' storage). Archiving can get very complicated depending on the requirements. There can be tiers of archiving, such as semi-instantaneous access, and completely offline.
-Archiving is a prominent concept, if designed or implemented incorrectly can break a solution. It is espcially acute with Blockchain as the entire premise of Blockchain is based on the fact that 'a blockchain' holds the single source of truth of everything that happened.
+Archiving is a prominent concept, if designed or implemented incorrectly can break a solution. It is espcially acute with Blockchain as the entire premise of Blockchain is based on the fact that 'a blockchain' holds the single source of truth of everything that happened. Some of the things to consider at design time of a Blockchain implementation is to index. Another design concept to consider is to fork the chain when we archive.
 
-CONSIDER: Indexing, Plan from the beginning
 7.	Smart Contract (??)
     Please refer to the selection secion of the playbook for a definition of Smart Contract
 
 8.	Messaging Protocols 
     Messaging is used as a mechanism to transfer and transport data between systems that perform specific functions. The systems can be anywhere from entire applications to a small microservice that perform a specific function. Most of these systems can't operate in a silo and need to interact with other systems either to get data from or to give data to. In some cases, the messaging is as simple as just transferring data from one location to another, while in other cases complex transformation is performed to map the data to suite the destination system. Some example of messaging protocols are Web Services, REST services, RPC etc. There are many messaging platforms such as Dell Bhoomi, Mulesoft, Rabbit MQ, IBM MQ Series, Apache Kafka etc.
     
-CONSIDER: Internal vs. External (within the chain and between participates vs. clients outside the chain)
+    The importance of messaging in a Blockchain environment is multi fold.
+    1. Intra network participant communication
+    2. Inter network communication
+    3. Communication between the blockchain and the participants
+  Typically, the blockchain framework handles all the internal communication within the network. For the communication mechanisms between clients and client and the node, we should consider any one of the concepts listed above. For inter network communication, in speaking between 2 self contained networks, there are tools like Wanchain (wanchain.io) focuses on this technology.
+
     
 9. Identity and Access Management
 
 10. GEOINT (Geo Integration)
     
-The importance of messaging in a Blockchain environment is multi fold.
-    1. Intra network participant communication
-    2. Inter network communication
-    3. Communication between the blockchain and the participants
+
 
 BRIAN RODRIGUE:
 Adjacent Technologies (They can potentially replace Blockchain technology for specific uses)
