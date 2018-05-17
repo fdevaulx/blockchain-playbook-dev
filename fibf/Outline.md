@@ -27,9 +27,9 @@ Action Items
             Procurement: Financial lifecycle tracking relating to procurement of goods and services
         d.	Todd – Human Capital
         e.	Rob – Financial
-            FM: Accelerating payments resulting from completion of contracts
+            FM: Leveraging standards and blockchain to accelerating payments resulting from completion of contracts
             FM: Managing finance and related data in a heterogeneous systems environment that combines commercial SaaS, legacy public sector on-prem systems, and centralized systems.
-            FM: Interface with payroll lifecycle to enable payments to staff, appropriate changes based on earnings/leave corrections, etc
-            FM: Role of block chain in  public sector FM audting during annual audit cycle and targetted audit/evaluation efforts.
+            FM: Interfacing w/payroll lifecycle to enable payments to staff, appropriate changes based on earnings/leave corrections, etc
+            FM: Role of blockchain and standards in  public sector FM audting during annual audit cycle and targetted audit/evaluation efforts.
             
         f.	TBD – Travel & Expense
