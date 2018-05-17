@@ -19,6 +19,16 @@ Action Items
 1.	Each of us take a category and list potential usecases and a sentence or 2 describing the use cases before the next meeting.
         a.	Tina / Maia – Law Enforcement
         b.	Mike Rice – Health IT
+            Identity Management
+            Medical Records Management
+            Medicade Management Information Systems
+            Benefites Administration
+            Data Security
+            Reimbursement
+            Clinical Trial Management
+            Pharmaceutical Supply Chain
+            Research 
+            Medical Device IOT        
         c.	Venkat – Grants, Procurement
             Grants: Tracking of funds distribution down to the recipient
             Grants: Reporting of funds distribution back to the government
