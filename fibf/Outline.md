@@ -18,7 +18,21 @@ Action Items
 5/3/2018
 1.	Each of us take a category and list potential usecases and a sentence or 2 describing the use cases before the next meeting.
         a.	Tina / Maia – Law Enforcement
+        
         b.	Mike Rice – Health IT
+            Identity Management
+            Medical Records Management
+            Medicade Management Information Systems
+            Benefites Administration
+            Data Security
+            Reimbursement
+            Clinical Trial Management
+            Pharmaceutical Supply Chain
+            Research 
+            
+            USE CASE : CDC Public Health -- Dr. Tom Savel
+            
+Medical Device IOT
         c.	Venkat – Grants, Procurement
             Grants: Tracking of funds distribution down to the recipient
             Grants: Reporting of funds distribution back to the government
@@ -33,3 +47,15 @@ Action Items
             FM: Role of blockchain and standards in  public sector FM audting during annual audit cycle and targetted audit/evaluation efforts.
             
         f.	TBD – Travel & Expense
+
+Health IT
+Identity Management
+Medical Records Management
+Medicade Management Information Systems
+Benefites Administration
+Data Security
+Reimbursement
+Clinical Trial Management
+Pharmaceutical Supply Chain
+Research 
+Medical Device IOT
