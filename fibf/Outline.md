@@ -29,10 +29,12 @@ Action Items
             Clinical Trial Management
             Pharmaceutical Supply Chain
             Research 
-            
+        
+
             USE CASE : CDC Public Health -- Dr. Tom Savel
             
 Medical Device IOT
+=======
         c.	Venkat – Grants, Procurement
             Grants: Tracking of funds distribution down to the recipient
             Grants: Reporting of funds distribution back to the government
