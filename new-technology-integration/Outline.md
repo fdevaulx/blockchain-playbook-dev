@@ -42,9 +42,9 @@ Besides serving similar responsibiities for a blockchain solution, Identity Mana
 
 BRIAN RODRIGUE:
 Adjacent Technologies (They can potentially replace Blockchain technology for specific uses)
-1.	Cryptography
+1.	Cryptography - the practice of obfuscating or encrypting information so it is no longer intelligible without a key. You can use cryptography to secure distributed pieces of information with much less overhead than blockchain. For example, imagine you have a compilation of text from different parties that changes over time, much like a GitHub repository. If each participant enables _signed commits_, GitHub uses public/private key pairs to verify that each contribution is from the party that the commit is contributed to. From a technical standpoint, this is much simpler than blockchain and is a service GitHub (and others) can offer as a free service.
 2.	Hashgraph
-3.	Distributed Ledger (IPFS) / Distributed Databases 
+3.	Distributed Ledger (IPFS) / Distributed Databases  - blockchain is built on top of a technology called distributed ledgers. The "block chaining" feature ensures groups of transactions are immutability linked to one another and is important in an adversarial environment. If you are looking into a system that only needs to exchange data with trusted parties or within an organization, blockchain is likely overkill for your situation. Look into services like Google Cloud Spanner which offers a globally distributed, highly redundant distributed database as a service.
 
 Outline
 1.	Intro
