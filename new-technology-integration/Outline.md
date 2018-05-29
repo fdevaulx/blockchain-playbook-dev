@@ -36,8 +36,6 @@ Identity and Access Management is the core 'entry' point into any application. I
 
 Besides serving similar responsibiities for a blockchain solution, Identity Management can play additional role - in permissioned networks, it can serve as the gate keeper for on-ramping and off-ramping network participants. For permissionless networks, it can simply act as the keeper of the members wanting to connect. It can also serve as the algorithm and mechanism for assigning and tracking the nodes that validate, and write the blocks into the chain, and also those who want to serve as a 'decentralized node'.
 
-10. GEOINT (Geo Integration)
-    
 
 
 BRIAN RODRIGUE:
