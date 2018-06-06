@@ -24,7 +24,10 @@ Best Practices:
 4.	Master Data Management (MDM) - a systematic way of handling important reference data for an organization that should be consistent to make it valuable. For example, if an organization does not have an standardized way of labeling customers but wants to do cross-cutting measures of customer service, they have a problem with MDM. If multiple parties or systems are participating in a blockchain, you must have good MDM in place or you will not be able to extract high quality information from your data. *Impact/Use Case:* if you plan on analyzing the data on your blockchain or using metadata about it for other purposes, you should investigate an MDM strategy to make sure your data remains of a high quality. 
 
 Best Practices:
-1. 
+1. Make the MDM part of the Governance Model and structure.
+2. Define the MDM standards as part of the blokchain network design
+3. Use MDM to guide the structure of the data / asset to be stored in the Blockchain.
+
 VENKAT KODUMUDI:
 5.	Cyber Security
     The term Cyber Security is used to collectively address the controls described in and provided by the NIST 800.3, and FIPS 199 directives that govern Federal Government Systems and OWASP standards for commercial sector. Cyber Security intersects with a Blockchain solution in a couple of areas:
