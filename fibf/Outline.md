@@ -37,10 +37,13 @@ Medical Device IOT
 =======
         c.	Venkat – Grants, Procurement
             Grants: Tracking of funds distribution down to the recipient
-            Grants: Reporting of funds distribution back to the government
-            Grants: Collected data can help analyze spend patterns and give suggestions to other similar social uses
+            This solution will connect the Financial and grants acquisition systems of the Federal Govermnemt agency with the systems of the state agencies, and further connect the recipient. The idea is to add every step in the processing of the grant and the 'spend pattern' of the grant into the blockchain giving the single world of truth at any time about a given grant. This will further help in reporting, and the data collected back can be analysed for spending patterns and other needs.
+ 
             Procurement: Procurement Lifecycle on Blockchain to enable accurate tracking of the procurement cycle, and milestones. 
             Procurement: Financial lifecycle tracking relating to procurement of goods and services
+            
+            This solution will connect the Financial and acquisition systems of the Federal Govermnemt agency with the systems of the recipient company (aka vendor). The idea is to add every step in the processing of the procurement and the 'spend pattern' of the contract into the blockchain giving the single world of truth at any time about a given contract. This will further help in reporting, and the data collected back can be analysed for spending patterns and other needs. This will also help in maintaining a common source of truth about the execution of the procurement.
+            
         d.	Todd – Human Capital
         e.	Rob – Financial
             FM: Leveraging standards and blockchain to accelerating payments resulting from completion of contracts
