@@ -9,11 +9,15 @@ Best Practices for ML:
 * Start small.
 * Use ML as Decision Support Systems, driven by simple rules (initially)
 
+Use Cases: 
+
 2.	RPA - robotic process automation is the idea of using technology to have a program perform tasks that were previously done by a person. *Impact/Use Case:* Imagine you have a legacy procurement system where purchase orders must be keyed in to a terminal application. You've also implemented a blockchain that stores procurement actions around your agency. You could create an RPA solution that read approved actions from the blockchain and automatically keyed them into the procurement system, reducing labor and increasing the accuracy of those POs.
 
 Best Practices
 * RPA should be considered for a process that doesn't change that often. Otherwise, the maintanance of the code becomes a bottleneck.
 * Choose the RPA tool appropriately. There are numerous tools out therre, understand the benefits of each before choosing the right one.
+
+Use Cases:
 
 3.	Big Data Management (including data storage) - big data can mean many things but the classic idea  is that new factors like data volume, velocity, and variability have proved difficult for traditional data processing solutions to handle and required new technology like Hadoop and Spark. *Impact/Use Case:* While blockchain is great for certain use cases, it is _not_ a great solution for high data volumes or complex analytical queries. In other words, if you need to do deep analysis on your transactions, to handle more than a couple transactions per second, or store more than 100GB of data, you may want to pivot from exploring blockchain to a complementary big data solution.
 
@@ -21,12 +25,17 @@ Best Practices:
 * It is best to store and manage any Big Data requirement 'outside' the blockchain (off chain) and provide a pointer to it on-chain.
 * Access requirements to the data have to be resolved ahead of time.
 
+Use Cases: 
+
 4.	Master Data Management (MDM) - a systematic way of handling important reference data for an organization that should be consistent to make it valuable. For example, if an organization does not have an standardized way of labeling customers but wants to do cross-cutting measures of customer service, they have a problem with MDM. If multiple parties or systems are participating in a blockchain, you must have good MDM in place or you will not be able to extract high quality information from your data. *Impact/Use Case:* if you plan on analyzing the data on your blockchain or using metadata about it for other purposes, you should investigate an MDM strategy to make sure your data remains of a high quality. 
 
 Best Practices:
 * Make the MDM part of the Governance Model and structure.
 * Define the MDM standards as part of the blokchain network design
 * Use MDM to guide the structure of the data / asset to be stored in the Blockchain.
+
+Use Cases:
+
 
 VENKAT KODUMUDI:
 5.	Cybersecurity
@@ -36,6 +45,9 @@ Best Practices:
 * Consult the blockchain playbook to decide on the right type of blockchain (e.g. public, private).
 * Conduct a standard audit of your solution design before implementation to ensure it is adequately secured. Blockchain does not remove security as a consideration from your IT system.
 
+Use Cases:
+
+
 6.	Archiving
     Archiving is *not* typically a feature of the Blockchain. As the number of blocks in the blockchain increases, the finite storage resources become dear to the success of the implementation. Archiving is normally one way to ensure enough storage is available for the operations of the system by moving a subset of data based on certain rules into an offline / somewhat difficult to access storage (also sometimes referred to as 'offline' storage). Archiving can get very complicated depending on the requirements. There can be tiers of archiving, such as semi-instantaneous access, and completely offline.
 
@@ -44,6 +56,9 @@ If not designed or implemented incorrectly, lack of archiving can break a soluti
 Best Practices:
 * If you expect to have a lot of data (hundreds of GB or more), consider indexing or holding a _pointer_ to the large data in the blockchain. For example, if you wanted an immutable record of radiological images, your blockchain might store metadata about the image and a SHA256 hash of the file, while the actual images were kept elsewhere.
 * If you do need to support archiving, you could perform a hard fork and modify the software running the blockchain to exclude old blocks.
+
+Use Cases:
+
 
 7.	Smart Contract (??)
     Please refer to the selection secion of the playbook for a definition of Smart Contract
@@ -56,6 +71,8 @@ Best Practices:
     * Your blockchain system will likely not exist on a single node. Make sure you figure out how intra-process communications between the nodes will work to ensure the data is timely and accurate.
     * Your blockchain system will likely hold valuable data that others not participating in the blockchain will want to access. Make sure you figure out how inter-system and inter-organization communication will work. RESTful web service APIs are becoming ubiquituous for this purpose.
 
+Use Cases:
+
     
 9. Identity and Access Management
 Identity and Access Management is the core 'entry' point into any application. It also serves as the gate keeper of user roles and responsibilities.
@@ -65,15 +82,17 @@ Besides serving similar responsibiities for a blockchain solution, Identity Mana
 Best Practice:
 * Decide how your system is going to handle identity and access management. Is this a public blockchain anyone can join? If not, how will you confirm identity? Look into the mutual exchange of TLS certificates for system-to-system communications so that both parties can confirm the other party holds a private key matching the public key that they identify themselves with.
 
+Use Cases:
+
 ##Adjacent Technologies 
 (They can potentially replace Blockchain technology for specific uses)
 1.	Cryptography - the practice of obfuscating or encrypting information so it is no longer intelligible without a key. You can use cryptography to secure distributed pieces of information with much less overhead than blockchain. For example, imagine you have a compilation of text from different parties that changes over time, much like a GitHub repository. If each participant enables _signed commits_, GitHub uses public/private key pairs to verify that each contribution is from the party that the commit is contributed to. From a technical standpoint, this is much simpler than blockchain and is a service GitHub (and others) can offer as a free service.
 
 
 Best Practices:
-1. As with any password / key, ensure the private key can't be stolen
-2. Use the highest form of encryption available for the keys - for example SHA-256
-3. A proper place to use this in lieu of Blockchain would be when you don't need a validation flow for the source of truth, and you are just storing the data securely.
+* As with any password / key, ensure the private key can't be stolen
+* Use the highest form of encryption available for the keys - for example SHA-256
+* A proper place to use this in lieu of Blockchain would be when you don't need a validation flow for the source of truth, and you are just storing the data securely.
 
 
 2.	Hashgraph
@@ -81,8 +100,7 @@ Hashgraph is a new consensus alternative to the blockchain. It uses a gossip pro
 3.	Distributed Ledger (IPFS) / Distributed Databases  - blockchain is built on top of a technology called distributed ledgers. The "block chaining" feature ensures groups of transactions are immutability linked to one another and is important in an adversarial environment. If you are looking into a system that only needs to exchange data with trusted parties or within an organization, blockchain is likely overkill for your situation. Look into services like Google Cloud Spanner which offers a globally distributed, highly redundant distributed database as a service.
 
 Best Practices:
-1. A proper place to use this in lieu of Blockchain would be when you don't need a validation flow for the source of truth, and you are just storing the data in a distributed fashion.
-
+* A proper place to use this in lieu of Blockchain would be when you don't need a ordering / validation flow for the source of truth, and you are just storing the data in a distributed fashion. For example, when we talk about distribution of information such as the investment reports, where you aren't transferring an asset, a Distributed Ledger maybe worth investigating.
 Outline
 1.	Intro
 2.	Definition of the different technologies and categories
