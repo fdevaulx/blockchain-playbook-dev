@@ -3,31 +3,34 @@ Technologies
 Complementing Technologies (Can stand on its own, but, enhance the business benefit of Blockchain if used in conjunction)
 
 CAL ZEMELMAN:
-1.	Machine Learning - artificial is the broad idea of teaching computers to think and act like an intelligent human. Machine learning is a subfield of artificial intelligence that deals with training computers to spot patterns and create predictive models for the future. Within machine learning, there are the ideas of supervised learning, unsupervised learning, and reinforcement learning. All of these might be useful for data. *Impact/Use Case:* Blockchains with a wide variety of data are fertile ground for training machine learning models. Imagine your blockchain stores financial transactions and whether they were found to be fraudulent. You could use a supervised learning technique on data from the blockchain to build a model for detecting fraudulent transactions.
-
+1.	Machine Learning - artificial is the broad idea of teaching computers to think and act like an intelligent human. Machine learning is a subfield of artificial intelligence that deals with training computers to spot patterns and create predictive models for the future. Within machine learning, there are the ideas of supervised learning, unsupervised learning, and reinforcement learning. All of these might be useful for data. *Impact/Use Case:* 
 Best Practices for ML:
 * Start small.
 * Use ML as Decision Support Systems, driven by simple rules (initially)
 
 Use Cases: 
+* Blockchains with a wide variety of data are fertile ground for training machine learning models. Imagine your blockchain stores financial transactions and whether they were found to be fraudulent. You could use a supervised learning technique on data from the blockchain to build a model for detecting fraudulent transactions.
 
-2.	RPA - robotic process automation is the idea of using technology to have a program perform tasks that were previously done by a person. *Impact/Use Case:* Imagine you have a legacy procurement system where purchase orders must be keyed in to a terminal application. You've also implemented a blockchain that stores procurement actions around your agency. You could create an RPA solution that read approved actions from the blockchain and automatically keyed them into the procurement system, reducing labor and increasing the accuracy of those POs.
+
+2.	RPA - robotic process automation is the idea of using technology to have a program perform tasks that were previously done by a person. 
 
 Best Practices
 * RPA should be considered for a process that doesn't change that often. Otherwise, the maintanance of the code becomes a bottleneck.
 * Choose the RPA tool appropriately. There are numerous tools out therre, understand the benefits of each before choosing the right one.
 
 Use Cases:
+* Imagine you have a legacy procurement system where purchase orders must be keyed in to a terminal application. You've also implemented a blockchain that stores procurement actions around your agency. You could create an RPA solution that read approved actions from the blockchain and automatically keyed them into the procurement system, reducing labor and increasing the accuracy of those POs.
 
-3.	Big Data Management (including data storage) - big data can mean many things but the classic idea  is that new factors like data volume, velocity, and variability have proved difficult for traditional data processing solutions to handle and required new technology like Hadoop and Spark. *Impact/Use Case:* While blockchain is great for certain use cases, it is _not_ a great solution for high data volumes or complex analytical queries. In other words, if you need to do deep analysis on your transactions, to handle more than a couple transactions per second, or store more than 100GB of data, you may want to pivot from exploring blockchain to a complementary big data solution.
+3.	Big Data Management (including data storage) - big data can mean many things but the classic idea  is that new factors like data volume, velocity, and variability have proved difficult for traditional data processing solutions to handle and required new technology like Hadoop and Spark. 
 
 Best Practices:
 * It is best to store and manage any Big Data requirement 'outside' the blockchain (off chain) and provide a pointer to it on-chain.
 * Access requirements to the data have to be resolved ahead of time.
 
 Use Cases: 
+* While blockchain is great for certain use cases, it is _not_ a great solution for high data volumes or complex analytical queries. In other words, if you need to do deep analysis on your transactions, to handle more than a couple transactions per second, or store more than 100GB of data, you may want to pivot from exploring blockchain to a complementary big data solution.
 
-4.	Master Data Management (MDM) - a systematic way of handling important reference data for an organization that should be consistent to make it valuable. For example, if an organization does not have an standardized way of labeling customers but wants to do cross-cutting measures of customer service, they have a problem with MDM. If multiple parties or systems are participating in a blockchain, you must have good MDM in place or you will not be able to extract high quality information from your data. *Impact/Use Case:* if you plan on analyzing the data on your blockchain or using metadata about it for other purposes, you should investigate an MDM strategy to make sure your data remains of a high quality. 
+4.	Master Data Management (MDM) - a systematic way of handling important reference data for an organization that should be consistent to make it valuable. For example, if an organization does not have an standardized way of labeling customers but wants to do cross-cutting measures of customer service, they have a problem with MDM. If multiple parties or systems are participating in a blockchain, you must have good MDM in place or you will not be able to extract high quality information from your data. 
 
 Best Practices:
 * Make the MDM part of the Governance Model and structure.
@@ -35,6 +38,7 @@ Best Practices:
 * Use MDM to guide the structure of the data / asset to be stored in the Blockchain.
 
 Use Cases:
+* If you plan on analyzing the data on your blockchain or using metadata about it for other purposes, you should investigate an MDM strategy to make sure your data remains of a high quality. 
 
 
 VENKAT KODUMUDI:
@@ -72,7 +76,7 @@ Use Cases:
     * Your blockchain system will likely hold valuable data that others not participating in the blockchain will want to access. Make sure you figure out how inter-system and inter-organization communication will work. RESTful web service APIs are becoming ubiquituous for this purpose.
 
 Use Cases:
-
+* You may want to setup a blockchain for tracking supply chain movements of goods to guarantee certain requirements are met from initial sourcing. Some of the data is sensitive, so you cannot grant the general public access to the data which may contain sensitive technical specifications or pricing. Consider setting up an API with RESTful web services to allow the public to view a subset of the information or redacted information.
     
 9. Identity and Access Management
 Identity and Access Management is the core 'entry' point into any application. It also serves as the gate keeper of user roles and responsibilities.
@@ -97,11 +101,16 @@ Best Practices:
 
 2.	Hashgraph
 Hashgraph is a new consensus alternative to the blockchain. It uses a gossip protocol that works in the following manner: Every node in Hashgraph can spread signed information (called events) on newly-created transactions and transactions received from others, to its randomly chosen neighbors. These neighbors will aggregate received events with information received from other nodes into a new event, and then send it on to other randomly chosen neighbors. This process continues until all the nodes are aware of the information created or received at the beginning. Due to the rapid convergence property of the gossip protocol, every piece of new information can reach each node in the network in a fast manner.
+
+Best Practices:
+* Consider the pros and cons of hashgraph vs blockchain as compared to your requirements. Do you expect the data to be widely distributed across the globe with intermittent connectivity? Do you need immutable blocks of transactions to support a business process? If so, that may cause you to trial one or the other.
+
 3.	Distributed Ledger (IPFS) / Distributed Databases  - blockchain is built on top of a technology called distributed ledgers. The "block chaining" feature ensures groups of transactions are immutability linked to one another and is important in an adversarial environment. If you are looking into a system that only needs to exchange data with trusted parties or within an organization, blockchain is likely overkill for your situation. Look into services like Google Cloud Spanner which offers a globally distributed, highly redundant distributed database as a service.
 
 Best Practices:
 * A proper place to use this in lieu of Blockchain would be when you don't need a ordering / validation flow for the source of truth, and you are just storing the data in a distributed fashion. For example, when we talk about distribution of information such as the investment reports, where you aren't transferring an asset, a Distributed Ledger maybe worth investigating.
-Outline
+
+##Outline
 1.	Intro
 2.	Definition of the different technologies and categories
 3.	How does each technology integrate / interface with Blockchain
