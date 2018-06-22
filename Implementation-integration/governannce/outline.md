@@ -17,10 +17,12 @@ o	Change management: In addition to the traditional change management, Governanc
 
 o	Release management: Release Management becomes a component of change management ahd deals with when and how the releases make into production. This is similar to the HOA resurfacing the main road in the HOA or rolling out a new internet service to all the homes in the HOA. Planning and approvals have to be part of release management.
 
-o	Security management
-	Key Management (Standards)
-o	IT service management
-o	Stakeholder management
+o	Security management: Security takes a totally larger role in the Governance of a Blockchain implementation. The governance has to ensure security to not one but every participant on the network. The compliance model has to take on and ensure FISMA and any security coverage for every participant which has a potential of crossing multiple security boundaries.
+
+	Key Management (Standards): Key Management takes a central role for a Blockchain solution. Everything on the blockchain needs a Key to access, and the security of the key becomes paramount. Care should be taken in developing the standards around the management of the Crypto Keys generated.
+
+o	IT service management: A central tenet of a ITSM is to be the SPOC for any issues with the services provided by the Blockchain. But, due to the architectural nature of Blockchain, ITSM becomes less of an issue, as the loss of a single node is not felt by the network. But, care should be taken in crafting the policies and procedures around the SPOC, as it has to service multiple organizations with different requirements. This is no different from a public facing helpdesk. For this very reason, ITSM is less of a concern for a Blockchain Implementation.
+o	Stakeholder management: Its hard as it is to manage the competing priorities of members within one household, expand that to every stake holder of every house in the HOA, it's chaos. Hello Rules.. Here they come. Followed by guidelines to make these rules. Stakeholder management in a Blockchain implementation is no different. The guidelines should be iron clad.
 
 
 
