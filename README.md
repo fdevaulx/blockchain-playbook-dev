@@ -1,7 +1,7 @@
 # Blockchain Working Group Projects
 
 ## Economic studies
-meeting info:
+meeting info: Fridays 9am.  Sarah Ropper
 
 ## Workforce Dev
 meeting info:
