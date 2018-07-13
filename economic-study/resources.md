@@ -15,3 +15,9 @@ https://scholar.princeton.edu/sites/default/files/markus/files/blockchain_paper_
 Economics of blockchain - March 2016
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2744751
 
+A study of pricing and trading model of Blockchain & Big
+data-based Energy-Internet electricity 
+http://iopscience.iop.org/article/10.1088/1755-1315/108/5/052083/pdf
+
+SOME SIMPLE ECONOMICS OF THE BLOCKCHAIN (scroll to this title or see downloaded paper)
+http://blockchain.mit.edu/
