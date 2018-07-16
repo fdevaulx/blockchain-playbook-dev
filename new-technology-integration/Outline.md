@@ -88,6 +88,20 @@ Best Practice:
 
 Use Cases:
 
+
+10. Geospatial or GEOINT - Geospatial, location-based application, and GEOINT, Geospatial Intelligence, are becoming more prevalent across all industries and allows for seamless sharing of constantly updated locational data.  Integrating with Blockchain provides updated status of each asset and each contract along with verification and history for each.  Geospatial and Blockchain integration improves a longstanding issue with the accuracy and currency of all geospatial source data.  There are many use cases for Public and Private Blockchain integration with GEOINT.
+
+Best Practices:
+
+    * Consider validation processes for open-source and public location assets versus proprietary, sensitive or classified location assets.  In a public blockchain the validation process can take time.  In the private blockchain the number of users can be restricted by invitation only and the rules of governing can be more easily changed by the administrators.  Backtracking (correcting) transactions may be permitted by them quickly as malfunctioning nodes can be quickly spotted and repaired in a private blockchain.
+    * Decide and assign roles along with identity and access management processes up front for public or private blockchains.
+    * In the private blockchain space, identify a liaison to gain consensus with your mission partners on processes for validation for proprietary, sensitive and classified assets at the start.
+
+Use Cases:
+
+Law enforcement evidence can be tracked, fraud and abuse are more easily identified and trafficking of humans, weapons, drugs, wildlife and more can be affected by integrating GEOINT and Blockchain.  When integrating Artificial Intelligence with GEOINT and Blockchain you can also manage your Internet-Of-Things and Facilities Management seamlessly.  Validation and automation for the identification of persons, vehicles, structures, etc. from all types of location-based imagery is already underway.  Some public and private geospatial blockchain use cases can include advertising and marketing, land transactions, street networks, terrain models, aerial or satellite imagery, LiDAR, UAVs like drones negotiating use of air space and geotagged blockchain election ballots.
+
+
 ##Adjacent Technologies 
 (They can potentially replace Blockchain technology for specific uses)
 1.	Cryptography - the practice of obfuscating or encrypting information so it is no longer intelligible without a key. You can use cryptography to secure distributed pieces of information with much less overhead than blockchain. For example, imagine you have a compilation of text from different parties that changes over time, much like a GitHub repository. If each participant enables _signed commits_, GitHub uses public/private key pairs to verify that each contribution is from the party that the commit is contributed to. From a technical standpoint, this is much simpler than blockchain and is a service GitHub (and others) can offer as a free service.
