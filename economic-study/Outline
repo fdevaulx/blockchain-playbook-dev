@@ -1,7 +1,26 @@
 Introduction: 
 
 <insert intro here> 
-
+   - Blockchain-based payment systems could potentially provide a more efficient, faster, and cheaper alternative to existing 
+     electronic payment methods.  In these models, traditional intermediaries are removed, counterparty risk is reduced, and 
+     interchange fees are eliminated.  Moreover, the blockchain could facilitate an online payments mechanism for small businesses 
+     that cannot afford more expensive payments networks.  Blockchain-based payment systems may also facilitate micro-payments, 
+     allowing businesses to monetize very low-cost goods or services sold on the internet that currently cannot be sold at an 
+     appropriately low per/unit cost, given traditional payments systems’ higher transaction costs.  Furthermore, blockchain-based 
+     remittance platforms, though at an early stage, could facilitate lower-cost remittances for financially excluded populations. 
+   - Blockchain technology propose to improve the way financial assets are intermediated by large, complex, wholesale financial 
+     institutions.  Wholesale intermediation typically begins with soliciting, negotiating, and accepting customer requests for a 
+     wide array of financial transactions, which are then recorded, executed and risk-managed.  Intermediation is a long chain of 
+     steps that include certain new, statutorily-mandated and critically important activities, like clearing and disclosing of 
+     transactions and risks.  This front-to-back process or chain of activities is controlled by a set of reconciled subledgers that 
+     together constitute the firms’ books and records of their financial activities.  Reconciliation is an age-old critical control for 
+     ledger integrity.  It relies on the assumption that it is more difficult to commit errors or malfeasance when multiple people are 
+     looking at the same thing, and currently involves onerous, redundant, manual processes.  Blockchain technology could provide an 
+     automated and more efficient way to perform ledger reconciliation, because it generates efficient, automated, electronic consensus 
+     that the distributed ledger is accurate.  Use of blockchain technology in the wholesale space is currently limited to a small 
+     quantity of products in OTC cash and derivative trading (e.g., itBit); exchange trading, margining and financing (tØ.com); 
+     alternative models for correspondent banking and foreign exchange transaction execution (Ripple).  One report estimates that the 
+     technology could reduce wholesale finance infrastructure costs by $15-20 billion per year by 2022. 
  
 
 Cost element 1: Cost of Storage 
@@ -9,16 +28,58 @@ Cost element 1: Cost of Storage
 <insert info> 
 
     - Currently no constructs for archive of old information – so once committed always in the chain 
+    - Comparison in the cost of data storage (purchase price per GB) provides the viability for blockchain tech
+    - Point out drop in cost of data storage (purchase price of $437,500 per GB in 1980 to just under $0.03 per GB in 2014), 
+      which provides the viability for blockchain technologies. That was a great article you posted from medium.
+    - Comparison cost of blockchain relative to centralized databases.
+    - Blockchain can lower costs when compared with the licensing and support fees charged by the big CSPs like oracle.
+    - Hosting, licensing, and implementation costs. 
+    - Hiring or outsourcing for talent to maintain the system.
+    - Energy costs may rise tremendously as the transaction volume increases.
+    - Bandwidth costs: The cost of network resources required to receive and transmit transactions, blocks, and metadata.
+    - The cost of storing all currently spendable transactions, which is necessary for miners and full nodes to perform transaction 
+      validation, and of storing the blockchain's (much larger) historical data, which is necessary to bootstrap new nodes that join 
+      the network.
+    - Perhaps we can do our own deep dive into the cost of storing data in a blockchain database.
 
-Cost element 2: Cost of computing power for consensus algorithms 
+
+Cost element 2: Cost of computing power for consensus algorithms/Scalability of Consensus 
 
 <insert info> 
+
+    - Transaction costs for scalability: for example, today's representative bitcoin blockchain takes 10 mins or longer to confirm 
+      transactions, achieves 7 transactions/sec. By comparison, Visa confirms a transaction within seconds, and processes 2000 
+      transactions/sec on average, with a peak rate of 56,000 transactions/sec. This shows large gap exists between where blockchain 
+      is today, and the scalability of a mainstream payment processor. Therefore, the key questions are, can decentralized blockchains 
+      be scaled up to match the performance of a mainstream payment processor? What does it take to get there?
+    - By enabling users to directly and securely transfer ownership and eliminate—or at least greatly reduce—the intermediation 
+      involved in traditional financial transactions, blockchain technology could potentially lower transaction costs; provide 
+      near-real time settlement; and reduce counterparty risk, thereby increasing efficiency in a broad range of financial industries.
 
 Cost element 3: Cost of specialized resources 
 
 <insert info> 
 
-Cost element4: Cost of ? 
+Cost element4: Cost of Governance/Regulatory/Compliance  
+
+<insert info> 
+Combiz: can do a whole sub-section on this, issues remain if control over the platform and its underlying data are held by a broader 
+set of stakeholders. 
+  - Who funds and owns the platform as well as the data? 
+  - Who ensures that it continues to meet evolving requirements?
+  - Who is responsible for upgrades and maintenance? 
+  - Costs associated with the parties responsible for writing to the blockchain and validating transactions. 
+  - Blockchain-based systems will likely become subject to increased regulation and supervision if they achieve scale (or if 
+    traditional networks or fiat currencies adopt blockchain technology), which likely will add costs for industry and higher fees 
+    for users.  Even assuming widespread adoption, it is unclear whether claimed cost advantages would remain if blockchain-based 
+    activities are subject to regulatory requirements, similar to those that apply to other products and services. 
+  - Identity stored on the blockchain can be made available at every step of a transaction chain, which could eliminate the need for 
+    each financial institution involved in a transaction to conduct its own customer identification/verification, potentially reducing 
+    transaction and AML/CFT regulatory compliance costs.  Blockchain technology may also allow an individual’s verified digital identity 
+    to travel with the person when establishing customer relationships at another financial institution regulated under the Bank Secrecy 
+    Act, potentially reducing onboarding costs.
+
+
 
 <insert info> 
 
