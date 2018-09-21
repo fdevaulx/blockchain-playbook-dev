@@ -1,3 +1,16 @@
+Layout: 
+   Introduction 
+   Cost element 1: Cost of Storage 
+   Cost element 2: Cost of computing power for consensus algorithms/Scalability of Consensus 
+   Cost element 3: Cost of specialized resources/Labor 
+   Cost element 4: Cost of Governance/Regulation/Compliance 
+   Benefits element 1: Financial  
+   Benefits element 2: Non-financial benefits 
+   Summary of Costs 
+   References
+
+
+
 Introduction: 
 
 <insert intro here> 
@@ -82,7 +95,7 @@ set of stakeholders.
     to travel with the person when establishing customer relationships at another financial institution regulated under the Bank Secrecy 
     Act, potentially reducing onboarding costs.
 
-Cost element 5: Financial and Non-Financial Benefits 
+ Benefit element 1: Non-Financial Benefits 
   - Non-Financial
       - distributed ledger
       - immutable
@@ -90,11 +103,26 @@ Cost element 5: Financial and Non-Financial Benefits
       - Efficient (faster distributionof changes)
       - Secure
       - Single source of truth
+   
+   Benefit element 2: Financial  Benefits 
    - Financial
-      - ?
-
-<insert info> 
-
+      - Open Source, no licensing costs. 
+      - Cost of reconciliation/ third party verification 
+         -Blockchain technology fundamentally transforms this cost by allowing, when a problem emerges, for costless verification. Any 
+          transaction attribute or information on the agents and goods involved that is stored on a distributed ledger can be cheaply 
+          verified, in real time, by market participants. Overall, for transaction attributes that can be reliably recorded on a 
+          blockchain, verification goes from being costly, scarce and prone to abuse, to being cheap and reliable. (from: Some Simple 
+          Economics of the Blockchain - Christian Catalini (MIT) and Joshua S. Gans (University of Toronto))
+      - Cost of network
+         - In the case of blockchain, by reducing the market power of intermediaries, the technology also allows platforms to operate 
+           with lower barriers to entry and innovation. Whereas we had the ability to crowdsource ideas, talent and capital online for 
+           multiple years, existing solutions rely on a central clearinghouse to match demand and supply, maintain reputation systems 
+           and trust, and ultimately ensure the safety of transactions.  In the current model, most consumers and businesses are 
+           renting resources on the internet, and do not own or control the digital and financial assets they rely on every day.  The 
+           consequences of market power in these digital markets, including financial ones, range from higher prices and switching costs 
+           to higher privacy and censorship risk.  If successful, the resulting platforms would shift us from a context where 
+           intermediary pledge to `not be evil', to one where they `can't be evil' in the first place.  (from: Some Simple Economics of 
+           the Blockchain - Christian Catalini (MIT) and Joshua S. Gans (University of Toronto)) 
 
 
 <insert info> 
